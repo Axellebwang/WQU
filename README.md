@@ -22,4 +22,4 @@ including Engle Granger MOdel and Ornstein Uhlenbeck Process with advance deep l
    ```bash
    python -m venv venv
    source venv/bin/activate     # On Windows: venv\Scripts\activate
-   
+3. run price_data.xlsx
