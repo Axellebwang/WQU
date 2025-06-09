@@ -19,7 +19,21 @@ including Engle Granger MOdel and Ornstein Uhlenbeck Process with advance deep l
 1. **Set up a Python environment (Python 3.8 or later recommended).**
 
 2. **(Optional but recommended)** Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate     # On Windows: venv\Scripts\activate
-3. run price_data.xlsx
+   In the project directory, open a terminal or command prompt and run:
+
+    python -m venv venv
+
+To activate the virtual environment:
+
+- On macOS/Linux:
+
+      source venv/bin/activate
+
+- On Windows:
+
+      venv\Scripts\activate
+  
+3. **Run the project**
+   Launch the Jupyter Notebook: jupyter notebook MSCFE690_GPN9179_M7_CODE_JUPYTER.ipynb
+   Make sure the file `price_data.xlsx` is in the same folder as the notebook.
+   This notebook uses data from `price_data.xlsx` during execution, so ensure it is present and correctly formatted before running the code.
