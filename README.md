@@ -11,7 +11,7 @@ including Engle Granger MOdel and Ornstein Uhlenbeck Process with advance deep l
 
 - **`MSCFE690_GPN9179_M7_CODE_JUPYTER.ipynb`** — The main notebook with analysis, plots, and results.
 - **`requirements.txt`** — Required Python packages to run the notebook.
-- ** `price_data.xlsx`** - Cleaned data Source
+- **`price_data.xlsx`** - Cleaned data Source
   
 ---
 
